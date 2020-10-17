@@ -1,0 +1,25 @@
+.app {
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+.customFormStyle{
+  margin-top: 50px;
+  margin-left: 50px;
+  width: 400px;
+}
+
+.btnSubmit{
+  background: #111430;
+  color: white;
+}
+
+.btnSubmit:hover{
+  background: coral;
+  color: white;
+}
+
+.btnUploadFile{
+  background: #DEFFED;
+  color: #009444;
+}
